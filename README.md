@@ -1,5 +1,2 @@
-# ACEPTA EL RETO (JAVA)
-Repo con problemas Java resueltos de acepta el reto, <br/>todos han pasado el filtro y dan Accepted como resultado.
-</br></br></br>
-## SOLUCIONES:</br>
-[151 - ¿Es matriz identidad?](https://github.com/sergiogh7/acepta-el-reto-java/tree/151-Es_matriz_identidad)
+# 151 - Los saltos de Mario</br></br>
+![image](https://user-images.githubusercontent.com/87013586/143082591-c612548c-574c-400b-b208-0844dfb6257e.png)
